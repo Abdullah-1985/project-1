@@ -3,6 +3,7 @@ $(document).ready(function () {
     var playerTwo = false;
     var gameOver = false;
     var counter = 0;
+    
     function play() {
         if ($(event.target).text() === '') {
             if (playerOne === true && gameOver === false) {
@@ -22,7 +23,6 @@ $(document).ready(function () {
         }
         winnerCase();
     }
-    $('.1').on('click', play)
 
 
     function winnerCase() {
@@ -81,11 +81,15 @@ $(document).ready(function () {
             alert('Tie')
 
         }
-        function newGame() {
 
-            location.reload();
-        }
-        $("button").on("click", newGame);
     }
+
+    function newGame() {
+
+        location.reload();
+    }
+
+    $('.1').on('click', play)
+    $("button").on("click", newGame);
 
 });
