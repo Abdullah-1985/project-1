@@ -1,6 +1,8 @@
 
 # Tic Tac Toe
 
+![alt text](https://imgur.com/a/LwwYSMC )
+
 ## Features  include:
 - Two Player
 
@@ -22,7 +24,7 @@
 
 ## Acknowledgements:
 
-thanks for
+thanks for:
 
 - Mr Moath Althawad.
 
@@ -31,6 +33,10 @@ thanks for
 - Mr Usman Bashir.
 
 - Mr Ayman Almatrudi.
+
+## more information:
+
+it was very useful project to improve my writing and thinking skills. 
 
 
 
