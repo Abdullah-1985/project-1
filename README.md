@@ -1,7 +1,7 @@
 
 # Tic Tac Toe
 
-![alt text](https://imgur.com/a/LwwYSMC )
+![alt text](https://github.com/Abdullah-1985/project-1/blob/master/Screen%20Shot%201440-05-24%20at%206.57.12%20PM.png )
 
 ## Features  include:
 - Two Player
